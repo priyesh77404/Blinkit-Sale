@@ -209,6 +209,6 @@ The Blinkit Analysis Dashboard provides a detailed and comprehensive view of Bli
 
 ## 🧑‍💻 Author
 
-**Ananya Kumar Lohia**  
-Final Year ECE @ NIT Jamshedpur  
-📬 [LinkedIn](https://www.linkedin.com/in/ananyakrlohia/) | ✉️ [Email](mailto:ananyatworkk@gmail.com)
+**Priyesh**  
+Final Year ECE @ NIT Patna 
+
